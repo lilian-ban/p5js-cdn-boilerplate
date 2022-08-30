@@ -1,6 +1,6 @@
 # p5js-cdn-boilerplate
 
-This boilerplate has been created to experiment and build small generative code with p5js
+This boilerplate has been created to experiment and build small generative code with p5js.
 p5 is loaded with CDN which means that it might not be updated to the **last** version.
 
 ## To use it
